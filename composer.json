@@ -7,7 +7,6 @@
             "email": "personal.vitaly@gmail.com"
         }
     ],
-    "require": {},
     "autoload": {
         "psr-4": {
             "payments\\": "src"
