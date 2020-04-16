@@ -1,0 +1,16 @@
+{
+    "name": "vitaly-alexandrovich/payments",
+    "description": "Simple Payments Layer",
+    "authors": [
+        {
+            "name": "Vitaly",
+            "email": "personal.vitaly@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "payments\\": "src"
+        }
+    }
+}
